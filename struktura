@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Přihlašovací stránka</title>
+</head>
+<body>
+    <h2>Zadejte heslo</h2>
+    <input type="password" id="passwordInput" placeholder="Zadejte heslo">
+    <button onclick="checkPassword()">Odeslat</button>
+    <script src="script.js"></script>
+</body>
+</html>
